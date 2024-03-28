@@ -8,9 +8,6 @@
 
 直接二分
 
-<details>
-<summary> 可爱的code捏 </summary>
-
 ```cpp
 // Author: xiaruize
 #include <bits/stdc++.h>
@@ -106,14 +103,9 @@ signed main() {
 }
 ```
 
-</details>
-
 ### B. 对常规的斗争
 
 二次差分板子题 挺显然的
-
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 // Author: xiaruize
@@ -205,7 +197,6 @@ signed main() {
 }
 ```
 
-</details>
 
 ### C. 海报
 
@@ -227,8 +218,6 @@ Part 2 考虑查询
 
 时间复杂度 $\mathcal{O}(nlogn)$ 空间复杂度 $\mathcal{O}(n)$
 
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 // Author: xiaruize
@@ -409,14 +398,10 @@ signed main() {
 }
 ```
 
-</details>
 
 ### D. 机器人锦标赛
 
 题面还是比较烦 但是其实暴力加就可以 遇到 $1$ 显然就不用继续操作了
-
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 // Author: xiaruize
@@ -532,8 +517,6 @@ signed main() {
 }
 ```
 
-</details>
-
 ### 2023.10.15比赛总结
 
 ``300`` 分没挂，最后一题不打暴力有点可惜
@@ -546,8 +529,6 @@ signed main() {
 
 警示后人: **能用map就不要哈希**
 
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -638,7 +619,6 @@ signed main() {
 }
 ```
 
-</details>
 
 ### B. 吃树
 
@@ -647,9 +627,6 @@ signed main() {
 1. 当正好存在 $\frac{n}{k}$ 个节点的子树大小为 $k$ 的倍数时, $k$ 作为块的大小是合法的
 
 2. 对于每种合法的块的大小，有且仅有 $1$ 种构造方案
-
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -765,7 +742,6 @@ signed main()
 }
 ```
 
-</details>
 
 ### C. 弹弹床
 
@@ -785,9 +761,6 @@ $$
 考虑怎么处理中间的数值， 发现上述``dp``可以反过来再做一次, 算出区间 $[i,n]$ , 剩下 $j$ 个向左的方案数
 
 然后枚举终点， 左右匹配即可
-
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -887,8 +860,6 @@ signed main() {
 }
 ```
 
-</details>
-
 ### D. 数星星
 
 小丑了 上次补这题是``ACV``的
@@ -900,9 +871,6 @@ signed main() {
 那么，当处理到当前右端点时，直接查询左端点即可
 
 然后用一个set去维护每个区间的覆盖情况，用树状数组维护每个时刻的值，树剖做链上修改
-
-<details>
-<summary> 巨大的code捏 </summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -1086,7 +1054,6 @@ signed main() {
 }
 ```
 
-</details>
 
 ### 20231016比赛总结
 
@@ -1102,8 +1069,6 @@ $\mathcal{O(n\sqrt{n}log^2n)=O(n^2)}$
 
 构造题 注意到排序操作 = $a_i<a_j$ 时的 ``swap``
 
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -1204,7 +1169,6 @@ signed main()
 }
 ```
 
-</details>
 
 ### B. 伪快速排序
 
@@ -1214,8 +1178,6 @@ $$
 dp_{i,j}=\sum\limits_{k=0}^{i-1} dp_{k,j-1} \cdot dp_{i-k-1,j-1} \cdot \binom{i-1}{k}
 $$
 
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -1305,16 +1267,12 @@ signed main()
 }
 ```
 
-</details>
 
 ### C. 二进制式
 
 表达式题, 先见表达式树, 考虑 ``dfs`` 算每个节点为 $1$ 的概率
 
 然后从根向下 ``dfs`` 即可算每个点的答案
-
-<details>
-<summary> 可爱的code捏 </summary>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -1474,8 +1432,6 @@ signed main()
 }
 ```
 
-</details>
-
 ### D. 网格图
 
 挖坑待填
@@ -1492,9 +1448,9 @@ signed main()
 
 形似儒略日, 稍微简单一点, 注意到公元前很烦, 考虑直接将公元前向后平移 $1$ 年, 然后使公元 $0$ 年存在
 
-<details>
+  
 
-<summary> 可爱的code捏 </summary>
+  
 
 ```cpp
 #include <bits/stdc++.h>
@@ -1636,7 +1592,7 @@ signed main()
 }
 ```
 
-</details>
+   
 
 ### B. 大融合
 
@@ -1650,9 +1606,9 @@ signed main()
 
 发现 $3$ 个机器人分别走分别贡献其实是诈骗条件, 和只有一个走并贡献 $100\%$ 等价
 
-<details>
+  
 
-<summary> 可爱的code捏 </summary>
+  
 
 ```cpp
 #include <bits/stdc++.h>
@@ -1824,7 +1780,7 @@ signed main()
 }
 ```
 
-</details>
+   
 
 ### C. 好 ♂ 朋 ♂ 友
 
@@ -1838,7 +1794,7 @@ signed main()
 
 被卡常了qwq
 
-<details>
+  
 <summary> 被卡常的巨大code捏 </summary>
 
 ```cpp
@@ -2036,7 +1992,7 @@ signed main()
 	return 0;
 }
 ```
-</details>
+   
 
 ### D. 图的直径
 
