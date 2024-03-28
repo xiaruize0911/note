@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df492e7bcbc1f492",
+        "id": "96d8f2ba0a557ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "2b06e93e9d0953f8",
+            "id": "32f03bad48376fe2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,8 +140,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2b06e93e9d0953f8",
+  "active": "46eecbd7db7ac9a1",
   "lastOpenFiles": [
+    "未命名 1.md",
     "未命名.md",
     "做题记录2024.03/NOI2011前真题/「NOI2010」海拔.md",
     "做题记录2024.03/NOI2011前真题/「NOI2009」诗人小G.md",
@@ -169,7 +170,6 @@
     "做题记录2024.03/2024.03.25/P4716. FarStrings.md",
     "做题记录2024.03/2024.03.25/P4608. NumberLabyrinthDiv1.md",
     "做题记录2024.03/2024.03.25/P4122. CentaurCompany.md",
-    "做题记录2024.03/2024.03.25/P4133. TreeUnion.md",
     "做题记录2024.03/2024.03.25",
     "其它做题笔记",
     "做题记录2023.11",
