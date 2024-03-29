@@ -11,8 +11,12 @@
             "id": "32f03bad48376fe2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "做题记录2024.03/NOI2011前真题/「NOI2011」 NOI 嘉年华.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "做题记录2024.03/NOI2011前真题/「NOI2011」 NOI 嘉年华.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "做题记录2024.03/NOI2011前真题/「NOI2011」 NOI 嘉年华.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "做题记录2024.03/NOI2011前真题/「NOI2011」 NOI 嘉年华.md"
+              }
             }
           }
         ],
@@ -140,8 +149,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "46eecbd7db7ac9a1",
+  "active": "32f03bad48376fe2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-28 17.02.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-28 17.02.31_0.excalidraw.md",
+    "做题记录2024.03/NOI2011前真题/「NOI2011」 NOI 嘉年华.md",
+    "Excalidraw",
     "未命名 1.md",
     "未命名.md",
     "做题记录2024.03/NOI2011前真题/「NOI2010」海拔.md",
@@ -167,9 +180,6 @@
     "做题记录2024.03/2024.03.26/P4118. PenguinEmperor.md",
     "做题记录2024.03/2024.03.26/P4117. TheDivisionGame.md",
     "做题记录2024.03/2024.03.26",
-    "做题记录2024.03/2024.03.25/P4716. FarStrings.md",
-    "做题记录2024.03/2024.03.25/P4608. NumberLabyrinthDiv1.md",
-    "做题记录2024.03/2024.03.25/P4122. CentaurCompany.md",
     "做题记录2024.03/2024.03.25",
     "其它做题笔记",
     "做题记录2023.11",
