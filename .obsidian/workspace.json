@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff30db9e92ba3e50",
+        "id": "fc2008bf28083e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "bf0192554d9492dc",
+            "id": "d5eb965b650ecf5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "做题记录2024.03/2024.03.30/P4165. RandomGCD.md",
+                "file": "做题记录2024.03/2024.03.30/P4720. StringsNightmareAgain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "做题记录2024.03/2024.03.30/P4165. RandomGCD.md",
+                "file": "做题记录2024.03/2024.03.30/P4720. StringsNightmareAgain.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "做题记录2024.03/2024.03.30/P4165. RandomGCD.md",
+                "file": "做题记录2024.03/2024.03.30/P4720. StringsNightmareAgain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "做题记录2024.03/2024.03.30/P4165. RandomGCD.md"
+                "file": "做题记录2024.03/2024.03.30/P4720. StringsNightmareAgain.md"
               }
             }
           }
@@ -148,10 +148,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf0192554d9492dc",
+  "active": "d5eb965b650ecf5d",
   "lastOpenFiles": [
-    "做题记录2024.03/2024.03.30/P4132. ShoutterDiv1.md",
+    "做题记录2024.03/2024.03.30/P4720. StringsNightmareAgain.md",
     "做题记录2024.03/2024.03.30/P4165. RandomGCD.md",
+    "做题记录2024.03/2024.03.30/P4132. ShoutterDiv1.md",
     "做题记录2024.03/2024.03.30/P4173. TreesAnalysis.md",
     "做题记录2024.03/2024.03.29/P60002. 斜二进制.md",
     "做题记录2024.03/2024.03.30",
@@ -163,7 +164,6 @@
     "Excalidraw/Drawing 2024-03-28 17.02.31_0.excalidraw.md",
     "Excalidraw",
     "未命名 1.md",
-    "未命名.md",
     "做题记录2024.03/NOI2011前真题/「NOI2010」海拔.md",
     "做题记录2024.03/NOI2011前真题/「NOI2009」诗人小G.md",
     "做题记录2024.03/NOI2011前真题/「NOI2009」管道取珠.md",
