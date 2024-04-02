@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2008bf28083e8e",
+        "id": "4f073e13cbfa67f6",
         "type": "tabs",
         "children": [
           {
-            "id": "d5eb965b650ecf5d",
+            "id": "b3eeca4fc01cf270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e12c691e7d4ad77",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +144,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e12c691e7d4ad77",
+  "active": "46eecbd7db7ac9a1",
   "lastOpenFiles": [
     "做题记录2024.04/2024.04.02/P4129.EllysChessboard.md",
     "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md",
