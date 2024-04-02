@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e12c691e7d4ad77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5eb965b650ecf5d",
+  "active": "3e12c691e7d4ad77",
   "lastOpenFiles": [
     "做题记录2024.04/2024.04.02/P4129.EllysChessboard.md",
     "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md",
