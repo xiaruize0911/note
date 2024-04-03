@@ -11,8 +11,12 @@
             "id": "b3eeca4fc01cf270",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "其它做题笔记/POI/POI2004.JAS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md",
+                "file": "其它做题笔记/POI/POI2004.JAS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md",
+                "file": "其它做题笔记/POI/POI2004.JAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md"
+                "file": "其它做题笔记/POI/POI2004.JAS.md"
               }
             }
           }
@@ -144,18 +148,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "46eecbd7db7ac9a1",
+  "active": "b3eeca4fc01cf270",
   "lastOpenFiles": [
-    "做题记录2024.04/2024.04.02/P4129.EllysChessboard.md",
+    "其它做题笔记/POI/POI1999原始生物.md",
+    "其它做题笔记/POI/Poi2002滑雪者命名.md",
+    "其它做题笔记/POI/POI2005 KOS-Dicing.md",
+    "其它做题笔记/POI/POI2004.JAS.md",
     "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md",
+    "做题记录2024.04/2024.04.02/P4129.EllysChessboard.md",
     "做题记录2024.04/2024.04.02/P4113.CirclesGame.md",
     "做题记录2024.04/2024.04.02/P4138.History.md",
     "做题记录2024.04/2024.04.02/P4137.LISNumber.md",
     "其它做题笔记/后缀自动机 SAM.md",
     "做题记录2024.04/2024.04.02",
-    "其它做题笔记/POI/POI2005 KOS-Dicing.md",
-    "其它做题笔记/POI/Poi2002滑雪者命名.md",
-    "其它做题笔记/POI/POI1999原始生物.md",
     "其它做题笔记/POI",
     "README.md",
     "做题记录2023.11/Drawing 2024-04-01 15.20.51.excalidraw.md",
@@ -176,7 +181,6 @@
     "做题记录2024.03/2024.03.29/P60002. 斜二进制.md",
     "做题记录2024.03/2024.03.30",
     "做题记录2024.03/2024.03.29/P60001. K4.md",
-    "做题记录2024.03/2024.03.29/P60000. 「镜中故我」.md",
     "做题记录2024.03/2024.03.29",
     "Excalidraw",
     "做题记录2024.03/NOI2011前真题",
