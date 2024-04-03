@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其它做题笔记/POI/POI2005.SZA-Template.md",
+                "file": "其它做题笔记/POI/POI1999原始生物.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其它做题笔记/POI/POI2005.SZA-Template.md",
+                "file": "其它做题笔记/POI/POI1999原始生物.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其它做题笔记/POI/POI2005.SZA-Template.md",
+                "file": "其它做题笔记/POI/POI1999原始生物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其它做题笔记/POI/POI2005.SZA-Template.md"
+                "file": "其它做题笔记/POI/POI1999原始生物.md"
               }
             }
           }
@@ -150,13 +150,14 @@
   },
   "active": "8610edcb8d62dc5b",
   "lastOpenFiles": [
-    "其它做题笔记/POI/Poi2004.Gra.md",
-    "其它做题笔记/POI/POI2005.SZA-Template.md",
-    "其它做题笔记/POI/POI2004.MAK.md",
-    "其它做题笔记/POI/POI2004.JAS.md",
-    "其它做题笔记/POI/POI1999原始生物.md",
     "其它做题笔记/POI/Poi2002滑雪者命名.md",
+    "其它做题笔记/POI/Poi2004.Gra.md",
+    "其它做题笔记/POI/POI2004.JAS.md",
+    "其它做题笔记/POI/POI2004.MAK.md",
     "其它做题笔记/POI/POI2005 KOS-Dicing.md",
+    "其它做题笔记/POI/POI2005.DWA-Two Parties.md",
+    "其它做题笔记/POI/POI2005.SZA-Template.md",
+    "其它做题笔记/POI/POI1999原始生物.md",
     "做题记录2024.04/2024.04.02/P4678.RockPaperScissors.md",
     "做题记录2024.04/2024.04.02/P4129.EllysChessboard.md",
     "做题记录2024.04/2024.04.02/P4113.CirclesGame.md",
@@ -179,7 +180,6 @@
     "做题记录2024.03/2024.03.30/P4720. StringsNightmareAgain.md",
     "做题记录2024.03/2024.03.30/P4685. StringWeight.md",
     "做题记录2024.03/2024.03.30/P4173. TreesAnalysis.md",
-    "做题记录2024.03/2024.03.30/P4165. RandomGCD.md",
     "做题记录2024.03/2024.03.30",
     "做题记录2024.03/2024.03.29",
     "Excalidraw",
